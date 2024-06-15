@@ -1,2 +1,3 @@
 # Amazon-Clone
 I Have Use HTML, CSS, Box-Modal, Flex Selectors this copy is amazon "In this lines of HTML 173" and "Css lines is 253" and similarly there are photos in it too and Run it at Zoom 80%....
+![Screenshot (45)](https://github.com/Iqrabi123/Amazon-Clone/assets/170875211/e13869f9-3ed9-49b7-9dea-cbd2a51c3bb7)
